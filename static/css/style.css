@@ -1,7 +1,7 @@
 @font-face {
     font-family: "a";
     /*中文字体*/
-    src: url();
+    src: url(../fonts/Ubuntu-Regular.ttf);
     font-display: swap;
 }
 
