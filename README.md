@@ -27,15 +27,7 @@
 无侧边栏白天黑夜切换
 三套主题
 前台一键切换
-# 最新版图片效果
 
-![1.png][1]
-![2.png][2]
-![3.png][3]
-![4.png][4]
-![5.png][5]
-![6.png][6]
-![7.png][7]
 # 使用
 
 下载解压即可访问
@@ -71,11 +63,7 @@
 
 原生html,css,js，未使用任何框架和插件,问就是不会
 
-github:https://github.com/ZYYO666/homepage-1.0
-强烈推荐,方便我在群里吹牛
-添加QQ裙下载:560938976
 
-演示站:https://zyyo.net
 
 
 
@@ -95,16 +83,3 @@ Ubuntu-Regular字体
 # 备注
 
 页面图标都是svg,可也自己找然后切换
-
-字体目前最新版是鸿蒙字体,可以自己设置
-
-
-
-  
-  [1]: https://zyyo.net/img/1.jpg?a
-  [2]: https://zyyo.net/img/2.jpg?a
-  [3]: https://zyyo.net/img/3.jpg?a
-  [4]: https://zyyo.net/img/4.jpg?a
-  [5]: https://zyyo.net/img/5.jpg?a
-  [6]: https://zyyo.net/img/6.jpg?a
-  [7]: https://zyyo.net/img/7.jpg?a
